@@ -1,0 +1,42 @@
+# STM32CubeIDE build folders
+Debug/
+Release/
+build/
+
+# Compiled STM32 output files
+*.elf
+*.bin
+*.hex
+*.map
+*.o
+*.d
+*.su
+*.cyclo
+
+# STM32CubeIDE / Eclipse local settings
+.metadata/
+.settings/
+*.launch
+.cproject
+.mxproject
+.project
+
+# Python temporary files
+__pycache__/
+*.pyc
+
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# CSV log files
+*.csv
+
+# Windows/Mac system files
+Thumbs.db
+.DS_Store
+
+# Temporary backup files
+*.tmp
+*.bak
